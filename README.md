@@ -1,15 +1,6 @@
 # MERN AMAZONA
 
-![amazona](/frontend/public/images/amazona.jpg)
-
-# React Tutorial - Build ECommerce in 6 Hours [2022]
-
-Fully-functional e-commerce website exactly like amazon. Open your code editor and follow me for the next hours to build an e-commerce website using MERN stack (MongoDB, ExpressJS, React and Node.JS).
-
-## Demo Website
-
-- 👉 Heroku : [https://mern-amazona-app.herokuapp.com](https://mern-amazona-app.herokuapp.com)
-
+Ecommerce website
 ## Technologies used
 
 - HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
