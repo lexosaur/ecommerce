@@ -46,3 +46,6 @@ $ npm start
 
 - Run http://localhost:3000/signin
 - Enter admin email and password and click signin
+
+
+Made based on the Ecommerce tutorial from Coding with Basir on Youtube.
